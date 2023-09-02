@@ -64,6 +64,12 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohangosavi7&theme=highcontrast)](https://git.io/streak-stats)
 
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohangosavi7&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[devcard.svg](https://github.com/rohangosavi7/rohangosavi7/blob/main/devcard.svg)
+
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohangosavi7&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
