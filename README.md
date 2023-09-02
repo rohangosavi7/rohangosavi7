@@ -66,5 +66,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohangosavi7&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[devcard.svg](https://github.com/rohangosavi7/rohangosavi7/blob/main/devcard.svg)
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rohangosavi7/rohangosavi7/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
