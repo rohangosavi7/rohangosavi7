@@ -9,7 +9,7 @@
     <a href="https://www.instagram.com/techyrohan/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://webifyx.in">
+    <a href="https://rohangosavi.github.io">
       <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Website Badge"/>
     </a>
   </div>
